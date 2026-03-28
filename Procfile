@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn practice_HelloWorld.py:app
